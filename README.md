@@ -16,17 +16,20 @@ The platform includes:
 🏗 Architecture Flow
 
 1️⃣ Infrastructure Pipeline
+
 	•	Provisions AWS infrastructure using Terraform
 	•	Creates EKS cluster
 	•	Bootstraps ArgoCD
 	•	Deploys Root Application
 
 2️⃣ CI Pipeline
+
 	•	Builds Docker image
 	•	Pushes image to DockerHub
 	•	Updates image tag
 
 3️⃣ GitOps CD (ArgoCD)
+
 	•	Watches CD repository
 	•	Automatically syncs changes to EKS
 	•	Deploys application and monitoring stack
@@ -40,6 +43,7 @@ The platform includes:
 Terraform + Jenkins
 
 Handles:
+
 	•	AWS provisioning
 	•	EKS cluster creation
 	•	ArgoCD installation
@@ -55,6 +59,7 @@ Handles:
 Docker Build & Image Push
 
 Handles:
+
 	•	Application build
 	•	Docker image creation
 	•	Push to DockerHub
@@ -69,6 +74,7 @@ Handles:
 ArgoCD GitOps Deployment
 
 Handles:
+
 	•	Kubernetes manifests
 	•	Monitoring stack
 	•	ArgoCD Applications
@@ -91,6 +97,7 @@ Handles:
 ⸻
 
 📊 Monitoring Stack
+
 	•	Prometheus (Metrics)
 	•	Grafana (Visualization)
 	•	Loki (Logs)
@@ -101,6 +108,7 @@ Deployed via GitOps model.
 ⸻
 
 🛠 Technologies Used
+
 	•	AWS
 	•	EKS
 	•	Terraform
@@ -115,6 +123,7 @@ Deployed via GitOps model.
 ⸻
 
 🎯 What This Project Demonstrates
+
 	•	Real-world DevOps architecture
 	•	Infrastructure as Code
 	•	GitOps workflow
@@ -126,10 +135,8 @@ Deployed via GitOps model.
 
 📬 Contact
 
-   •  GitHub: [https://github.com/Ahmedlebshten]
-   
-   •  LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
-   
-   •  Email: [ahmedlebshtenlebshten@gmail.com]
+    •  GitHub: [https://github.com/Ahmedlebshten]
+    •  LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
+    •  Email: [ahmedlebshtenlebshten@gmail.com]
    
 ⭐ Star this project if you find it useful! DevSecOps Pipeline - Production Ready - Fully Automated
