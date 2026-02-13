@@ -120,3 +120,12 @@ Deployed via GitOps model.
 	•	CI/CD separation of concerns
 	•	Kubernetes-native deployment
 	•	Monitoring & observability setup
+	
+⸻
+
+📬 Contact
+
+   •  GitHub: [https://github.com/Ahmedlebshten]
+   •  LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
+   •  Email: [ahmedlebshtenlebshten@gmail.com]
+⭐ Star this project if you find it useful! DevSecOps Pipeline - Production Ready - Fully Automated
