@@ -135,8 +135,8 @@ Deployed via GitOps model.
 
 📬 Contact
 
-    •  GitHub: [https://github.com/Ahmedlebshten]
-    •  LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
-    •  Email: [ahmedlebshtenlebshten@gmail.com]
+•  GitHub: [https://github.com/Ahmedlebshten]
+•  LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
+•  Email: [ahmedlebshtenlebshten@gmail.com]
    
 ⭐ Star this project if you find it useful! DevSecOps Pipeline - Production Ready - Fully Automated
