@@ -5,6 +5,7 @@
 This project demonstrates a complete DevOps lifecycle implementation for a School Management System application deployed on AWS EKS using modern DevOps practices.
 
 The platform includes:
+
 	•	Infrastructure as Code (Terraform)
 	•	CI Pipeline (Docker Build & Push)
 	•	GitOps Continuous Deployment (ArgoCD)
