@@ -141,4 +141,4 @@ Deployed via GitOps model.
 
 •  Email: [ahmedlebshtenlebshten@gmail.com]
    
-⭐ Star this project if you find it useful! DevSecOps Pipeline - Production Ready - Fully Automated
+⭐ Star this project if you find it useful! Production Ready - Fully Automated
