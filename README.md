@@ -50,7 +50,7 @@ Handles:
 	•	Root Application creation
 
 🔗 Repo Link:
-[https://github.com/YOUR_USERNAME/School_Management_System_Infra(https://github.com/Ahmedlebshten/School_Management_System_Infra)
+[https://github.com/Ahmedlebshten/School_Management_System_Infra(https://github.com/Ahmedlebshten/School_Management_System_Infra)
 
 ⸻
 
@@ -65,7 +65,7 @@ Handles:
 	•	Push to DockerHub
 
 🔗 Repo Link:
-[https://github.com/YOUR_USERNAME/School_Management_System_CI](https://github.com/Ahmedlebshten/School_Management_System)
+[https://github.com/Ahmedlebshten/School_Management_System_CI](https://github.com/Ahmedlebshten/School_Management_System)
 
 ⸻
 
@@ -81,7 +81,7 @@ Handles:
 	•	Automated sync & self-heal
 
 🔗 Repo Link:
-[https://github.com/YOUR_USERNAME/School_Management_System_CD](https://github.com/Ahmedlebshten/School_Management_System_CD)
+[https://github.com/Ahmedlebshten/School_Management_System_CD](https://github.com/Ahmedlebshten/School_Management_System_CD)
 
 ⸻
 
