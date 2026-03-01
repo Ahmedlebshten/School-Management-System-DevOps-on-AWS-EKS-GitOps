@@ -34,8 +34,7 @@ Infrastructure lifecycle is isolated from application lifecycle.
 
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_Infra
-
-
+⸻
 #### 2️⃣ CI Repository (GitHub Actions)
 
 Triggered on every push to the application repository:
@@ -56,7 +55,7 @@ https://github.com/Ahmedlebshten/School_Management_System
 
 Flow:
 Code Push → GitHub Actions → Docker Build → Push to ECR → Update CD Repo
-
+⸻
 #### 3️⃣ GitOps CD Repository (ArgoCD)
 
 - Watches CD repository
