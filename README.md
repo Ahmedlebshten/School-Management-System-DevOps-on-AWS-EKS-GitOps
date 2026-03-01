@@ -12,7 +12,7 @@ The platform includes:
 - Kubernetes-native Monitoring Stack
 - Production-oriented Kubernetes configuration
   
-⸻
+
 
 ## 🏗 Architecture Diagram
 
