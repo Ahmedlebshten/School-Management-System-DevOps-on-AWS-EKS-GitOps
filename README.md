@@ -11,8 +11,7 @@ The platform includes:
 - GitOps Continuous Deployment (ArgoCD)
 - Kubernetes-native Monitoring Stack
 - Production-oriented Kubernetes configuration
-  
-
+____
 
 ## 🏗 Architecture Diagram
 
