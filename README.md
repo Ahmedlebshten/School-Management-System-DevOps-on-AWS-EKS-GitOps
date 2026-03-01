@@ -1,6 +1,6 @@
 # 🚀 School Management System – End-to-End DevOps Platform
 
-#### 📌 Overview
+## 📌 Overview
 
 This project demonstrates a complete DevOps lifecycle implementation for a School Management System application deployed on AWS EKS using modern DevOps practices.
 
@@ -14,15 +14,15 @@ The platform includes:
   
 ⸻
 
-#### 🏗 Architecture Diagram
+## 🏗 Architecture Diagram
 
 ![Architecture](./assets/architecture.jpeg)
 
 ⸻
 
-#### 🏗 Architecture Flow
+## 🏗 Architecture Flow
 
-###### 1️⃣ Infrastructure Repository (Jenkins + Terraform)
+#### 1️⃣ Infrastructure Repository (Jenkins + Terraform)
 
 - Provisions AWS infrastructure using Terraform
 - Creates VPC, IAM Roles, EKS Cluster, Node Groups
@@ -35,7 +35,7 @@ Infrastructure lifecycle is isolated from application lifecycle.
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_Infra
 
-###### 2️⃣ CI Repository (GitHub Actions)
+#### 2️⃣ CI Repository (GitHub Actions)
 
 Triggered on every push to the application repository:
 
@@ -56,7 +56,7 @@ https://github.com/Ahmedlebshten/School_Management_System
 Flow:
 Code Push → GitHub Actions → Docker Build → Push to ECR → Update CD Repo
 
-###### 3️⃣ GitOps CD Repository (ArgoCD)
+#### 3️⃣ GitOps CD Repository (ArgoCD)
 
 - Watches CD repository
 - Detects manifest changes
@@ -73,7 +73,7 @@ https://github.com/Ahmedlebshten/School_Management_System_CD
 
 ⸻
 
-#### 📊 Monitoring Stack
+## 📊 Monitoring Stack
 Deployed using Helm via GitOps model:
 
 - Prometheus (Metrics)
@@ -85,7 +85,7 @@ All running inside the cluster with Kubernetes-native configuration.
 
 ⸻
 
-#### 🛠 Technology Stack
+## 🛠 Technology Stack
 
 - AWS (EKS, IAM, ECR, S3)
 - Terraform
@@ -101,7 +101,7 @@ All running inside the cluster with Kubernetes-native configuration.
 
 ⸻
 
-#### 🎯 What This Project Demonstrates
+## 🎯 What This Project Demonstrates
 
 - End-to-end DevOps lifecycle
 - Infrastructure as Code (Terraform)
@@ -115,7 +115,7 @@ All running inside the cluster with Kubernetes-native configuration.
 	
 ⸻
 
-#### 📬 Reach Me
+## 📬 Reach Me
 
 •  GitHub: [https://github.com/Ahmedlebshten]
 
