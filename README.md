@@ -18,11 +18,11 @@ The platform includes:
 
 ![Architecture](./assets/architecture.jpeg)
 
-⸻
+
 
 ## 🏗 Architecture Flow
 
-#### 1️⃣ Infrastructure Repository (Jenkins + Terraform)
+#### 1️⃣ Infrastructure Repository (Jenkins + Terraform):
 
 - Provisions AWS infrastructure using Terraform
 - Creates VPC, IAM Roles, EKS Cluster, Node Groups
@@ -75,7 +75,7 @@ Deploys:
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_CD
 
-⸻
+
 
 ## 📊 Monitoring Stack
 Deployed using Helm via GitOps model:
@@ -87,7 +87,7 @@ Deployed using Helm via GitOps model:
 
 All running inside the cluster with Kubernetes-native configuration.
 
-⸻
+
 
 ## 🛠 Technology Stack
 
@@ -103,7 +103,7 @@ All running inside the cluster with Kubernetes-native configuration.
 - Grafana
 - Loki
 
-⸻
+
 
 ## 🎯 What This Project Demonstrates
 
@@ -117,7 +117,7 @@ All running inside the cluster with Kubernetes-native configuration.
 - Persistent storage using EBS
 - Monitoring & Observability implementation
 	
-⸻
+
 
 ## 📬 Reach Me
 
