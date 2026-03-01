@@ -51,11 +51,11 @@ Code Push → GitHub Actions → Docker Build → Push to ECR → Update CD Repo
 - Detects manifest changes
 - Automatically syncs to EKS
 - Applies self-healing & drift correction
-Deploys:
 
-	•	School Application
-	•	MySQL (with PVC & StorageClass)
-	•	Monitoring Stack (Helm-based)
+Deploys:
+- School Application
+- MySQL (with PVC & StorageClass)
+- Monitoring Stack (Helm-based)
 
 ⸻
 
