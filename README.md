@@ -91,7 +91,7 @@ Handles:
 - CD repo image tag update
 
 🔗 Repo Link:
-https://github.com/Ahmedlebshten/School_Management_System_CI
+https://github.com/Ahmedlebshten/School_Management_System
 
 ⸻
 
