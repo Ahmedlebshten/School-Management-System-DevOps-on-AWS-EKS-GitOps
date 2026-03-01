@@ -17,7 +17,7 @@ ____
 
 ![Architecture](./assets/architecture.jpeg)
 
-
+____
 
 ## 🏗 Architecture Flow
 
@@ -34,7 +34,7 @@ Infrastructure lifecycle is isolated from application lifecycle.
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_Infra
 
-⸻
+____
 
 #### 2️⃣ CI Repository (GitHub Actions):
 
@@ -57,7 +57,7 @@ https://github.com/Ahmedlebshten/School_Management_System
 Flow:
 Code Push → GitHub Actions → Docker Build → Push to ECR → Update CD Repo
 
-⸻
+____
 
 #### 3️⃣ GitOps CD Repository (ArgoCD):
 
@@ -73,8 +73,7 @@ Deploys:
 
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_CD
-
-
+____
 
 ## 📊 Monitoring Stack
 Deployed using Helm via GitOps model:
@@ -85,8 +84,7 @@ Deployed using Helm via GitOps model:
 - Promtail (Log shipping)
 
 All running inside the cluster with Kubernetes-native configuration.
-
-
+____
 
 ## 🛠 Technology Stack
 
@@ -101,8 +99,7 @@ All running inside the cluster with Kubernetes-native configuration.
 - Prometheus
 - Grafana
 - Loki
-
-
+____
 
 ## 🎯 What This Project Demonstrates
 
