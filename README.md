@@ -35,6 +35,7 @@ Infrastructure lifecycle is isolated from application lifecycle.
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_Infra
 
+
 #### 2️⃣ CI Repository (GitHub Actions)
 
 Triggered on every push to the application repository:
