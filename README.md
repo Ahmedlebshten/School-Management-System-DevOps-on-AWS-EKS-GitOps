@@ -51,9 +51,6 @@ Registry: Amazon ECR
 ```
 Images are built and pushed automatically by GitHub Actions using AWS OIDC authentication.
 
-🔗 Repository:
-https://github.com/Ahmedlebshten/School_Management_System
-
 Flow:
 ```
 Code Push
@@ -72,6 +69,8 @@ Update CD Repo
    ↓
 ArgoCD Sync
 ```
+🔗 Repository:
+https://github.com/Ahmedlebshten/School_Management_System
 ____
 
 #### 3️⃣ GitOps CD Repository (ArgoCD):
