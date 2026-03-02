@@ -29,7 +29,7 @@ ____
 - Installs ArgoCD on EKS
 - Bootstraps the Root Application
 
-Infrastructure lifecycle is isolated from application lifecycle.
+Infrastructure Lifecycle is isolated from application lifecycle.
 
 🔗 Repository:
 https://github.com/Ahmedlebshten/School_Management_System_Infra
