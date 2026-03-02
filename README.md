@@ -55,8 +55,23 @@ Images are built and pushed automatically by GitHub Actions using AWS OIDC authe
 https://github.com/Ahmedlebshten/School_Management_System
 
 Flow:
-Code Push → GitHub Actions → Docker Build → Push to ECR → Update CD Repo
-
+```
+Code Push
+   ↓
+GitHub Actions
+   ↓
+Build & Test
+   ↓
+Docker Build
+   ↓
+Trivy Scan
+   ↓
+Push to ECR
+   ↓
+Update CD Repo
+   ↓
+ArgoCD Sync
+```
 ____
 
 #### 3️⃣ GitOps CD Repository (ArgoCD):
