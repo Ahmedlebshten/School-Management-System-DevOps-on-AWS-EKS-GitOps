@@ -129,12 +129,10 @@ ____
 	
 
 
-## 📬 Reach Me
+## 📬 Connect With Me
 
-•  GitHub: [https://github.com/Ahmedlebshten]
-
-•  LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
-
-•  Email: [ahmedlebshtenlebshten@gmail.com]
+- GitHub: [https://github.com/Ahmedlebshten]
+- LinkedIn: [https://www.linkedin.com/in/ahmedlebshten]
+- Email: [ahmedlebshtenlebshten@gmail.com]
    
 ⭐ Star this project if you find it useful! Production Ready - Fully Automated
