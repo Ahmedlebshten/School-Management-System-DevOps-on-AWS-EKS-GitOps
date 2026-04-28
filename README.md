@@ -1,4 +1,4 @@
-# 🚀 School Management System – End-to-End DevOps Platform
+# 🚀 School System – End-to-End DevOps Platform
 
 ## 📌 Overview
 
