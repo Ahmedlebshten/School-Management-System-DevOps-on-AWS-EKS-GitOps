@@ -4,6 +4,11 @@
 
 This project demonstrates a complete DevOps lifecycle implementation for a School Management System application deployed on AWS EKS using modern DevOps practices.
 
+## 🏗 Architecture Diagram
+
+<img width="1629" height="965" alt="new-school" src="https://github.com/user-attachments/assets/c42a4442-6add-41df-8b93-f238189bc7d6" />
+____
+
 The platform includes:
 
 - Infrastructure as Code (Terraform)
@@ -11,12 +16,6 @@ The platform includes:
 - GitOps Continuous Deployment (ArgoCD)
 - Kubernetes-native Monitoring Stack
 - Production-oriented Kubernetes configuration
-____
-
-## 🏗 Architecture Diagram
-
-![Architecture](./assets/architecture.jpeg)
-
 ____
 
 ## 🏗 Architecture Flow
