@@ -7,6 +7,7 @@ This project demonstrates a complete DevOps lifecycle implementation for a Schoo
 ## 🏗 Architecture Diagram
 
 <img width="1629" height="965" alt="new-school" src="https://github.com/user-attachments/assets/c42a4442-6add-41df-8b93-f238189bc7d6" />
+
 ____
 
 The platform includes:
